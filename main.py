@@ -1,3 +1,4 @@
+import streamlit as st
 import time
 
 st.title("Streamlit超入門")
